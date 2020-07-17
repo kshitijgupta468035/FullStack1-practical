@@ -3,11 +3,19 @@
   font-size: 1.5rem;
 }
 
-
 .inner {
   margin-left: 65px;
 }
 
+
 .red-color {
   color: red;
+}
+
+.blue-color {
+  color: blue;
+}
+
+.skyblue-color {
+  color: skyblue;
 }
